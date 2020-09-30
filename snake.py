@@ -5,7 +5,7 @@ import random
 delay = 0.1
 
 # Score
-score = 0
+score = randint(0,100)
 high_score = 0
 
 # Set up the screen
